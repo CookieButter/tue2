@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Tue2
+#
+
+projectname: Tue2
+vendorid: com.mycompany
+mainmodule: com.mycompany.tue2
